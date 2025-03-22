@@ -1,5 +1,5 @@
 # SVM Model Summary
-Date created: 2025-03-22 13:01:15
+Date created: 2025-03-22 13:18:06
 Features: DO, pH, Alkalinity, Hardness, Nitrite, H2S, Salinity, Ammonia, Temperature
 Targets: WSS, AHPND, TSV, YHV
 Models: svm_model_WSS.pkl, svm_model_AHPND.pkl, svm_model_TSV.pkl, svm_model_YHV.pkl
